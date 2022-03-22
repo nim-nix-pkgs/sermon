@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-sermon-master.flake = false;
+  inputs.src-sermon-master.ref   = "refs/heads/master";
   inputs.src-sermon-master.owner = "ThomasTJdev";
-  inputs.src-sermon-master.ref   = "master";
   inputs.src-sermon-master.repo  = "nim_sermon";
   inputs.src-sermon-master.type  = "github";
   
