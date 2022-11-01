@@ -498,11 +498,11 @@
       },
       "locked": {
         "dir": "v0_4_1",
-        "lastModified": 1667323243,
-        "narHash": "sha256-yuhZolvhotlSz9/NRGrD9ZazoTB20PoToxNklS1CFN8=",
+        "lastModified": 1667330395,
+        "narHash": "sha256-DjQ1a5iCGWBRjoP1e+KejLy+WtIj9WT2CVBXw1Egte4=",
         "owner": "nim-nix-pkgs",
         "repo": "httpbeast",
-        "rev": "0067a58e5eb250c0731f9cfa10ea7bab6adaa6db",
+        "rev": "c866141c30eb0b7264edd53b05aa67c82b36b9f0",
         "type": "github"
       },
       "original": {
@@ -956,11 +956,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667325422,
-        "narHash": "sha256-Tu9mJwSsCsHlLti2oNkw0Sii0f6cZ+AFQQ5vBw1bxqo=",
+        "lastModified": 1667330860,
+        "narHash": "sha256-ArtO92+YY52IX8x5yHaiyC7oMC6Gmx7sB+cqebQcrxg=",
         "owner": "nim-nix-pkgs",
         "repo": "sermon",
-        "rev": "2d3991cb2e3386421273c9f9408417914cc99eab",
+        "rev": "3b050a68f260bdddf53486a676a33f3527552282",
         "type": "github"
       },
       "original": {
@@ -984,11 +984,11 @@
       },
       "locked": {
         "dir": "v0_1_1",
-        "lastModified": 1667325422,
-        "narHash": "sha256-Tu9mJwSsCsHlLti2oNkw0Sii0f6cZ+AFQQ5vBw1bxqo=",
+        "lastModified": 1667330860,
+        "narHash": "sha256-ArtO92+YY52IX8x5yHaiyC7oMC6Gmx7sB+cqebQcrxg=",
         "owner": "nim-nix-pkgs",
         "repo": "sermon",
-        "rev": "2d3991cb2e3386421273c9f9408417914cc99eab",
+        "rev": "3b050a68f260bdddf53486a676a33f3527552282",
         "type": "github"
       },
       "original": {
@@ -1012,11 +1012,11 @@
       },
       "locked": {
         "dir": "v0_2_6",
-        "lastModified": 1667325422,
-        "narHash": "sha256-Tu9mJwSsCsHlLti2oNkw0Sii0f6cZ+AFQQ5vBw1bxqo=",
+        "lastModified": 1667330860,
+        "narHash": "sha256-ArtO92+YY52IX8x5yHaiyC7oMC6Gmx7sB+cqebQcrxg=",
         "owner": "nim-nix-pkgs",
         "repo": "sermon",
-        "rev": "2d3991cb2e3386421273c9f9408417914cc99eab",
+        "rev": "3b050a68f260bdddf53486a676a33f3527552282",
         "type": "github"
       },
       "original": {
@@ -1040,11 +1040,11 @@
       },
       "locked": {
         "dir": "v0_2_7",
-        "lastModified": 1667325422,
-        "narHash": "sha256-Tu9mJwSsCsHlLti2oNkw0Sii0f6cZ+AFQQ5vBw1bxqo=",
+        "lastModified": 1667330860,
+        "narHash": "sha256-ArtO92+YY52IX8x5yHaiyC7oMC6Gmx7sB+cqebQcrxg=",
         "owner": "nim-nix-pkgs",
         "repo": "sermon",
-        "rev": "2d3991cb2e3386421273c9f9408417914cc99eab",
+        "rev": "3b050a68f260bdddf53486a676a33f3527552282",
         "type": "github"
       },
       "original": {
@@ -1068,11 +1068,11 @@
       },
       "locked": {
         "dir": "v0_2_8",
-        "lastModified": 1667325422,
-        "narHash": "sha256-Tu9mJwSsCsHlLti2oNkw0Sii0f6cZ+AFQQ5vBw1bxqo=",
+        "lastModified": 1667330860,
+        "narHash": "sha256-ArtO92+YY52IX8x5yHaiyC7oMC6Gmx7sB+cqebQcrxg=",
         "owner": "nim-nix-pkgs",
         "repo": "sermon",
-        "rev": "2d3991cb2e3386421273c9f9408417914cc99eab",
+        "rev": "3b050a68f260bdddf53486a676a33f3527552282",
         "type": "github"
       },
       "original": {
@@ -1096,11 +1096,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1667325422,
-        "narHash": "sha256-Tu9mJwSsCsHlLti2oNkw0Sii0f6cZ+AFQQ5vBw1bxqo=",
+        "lastModified": 1667330860,
+        "narHash": "sha256-ArtO92+YY52IX8x5yHaiyC7oMC6Gmx7sB+cqebQcrxg=",
         "owner": "nim-nix-pkgs",
         "repo": "sermon",
-        "rev": "2d3991cb2e3386421273c9f9408417914cc99eab",
+        "rev": "3b050a68f260bdddf53486a676a33f3527552282",
         "type": "github"
       },
       "original": {
@@ -1124,11 +1124,11 @@
       },
       "locked": {
         "dir": "v0_3_1",
-        "lastModified": 1667325422,
-        "narHash": "sha256-Tu9mJwSsCsHlLti2oNkw0Sii0f6cZ+AFQQ5vBw1bxqo=",
+        "lastModified": 1667330860,
+        "narHash": "sha256-ArtO92+YY52IX8x5yHaiyC7oMC6Gmx7sB+cqebQcrxg=",
         "owner": "nim-nix-pkgs",
         "repo": "sermon",
-        "rev": "2d3991cb2e3386421273c9f9408417914cc99eab",
+        "rev": "3b050a68f260bdddf53486a676a33f3527552282",
         "type": "github"
       },
       "original": {
